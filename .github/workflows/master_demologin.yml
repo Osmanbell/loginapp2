@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'demologin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD410142F38D43ECA15717CD2EEAA1F5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13743859E40546488D7EFC989DBF4813 }}
           package: .
